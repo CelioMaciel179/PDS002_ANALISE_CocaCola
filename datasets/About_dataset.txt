@@ -1,0 +1,17 @@
+# About
+
+Here is a description for each column in your dataset:
+
+- **Date**: The date of the trading session, typically formatted as YYYY-MM-DD.
+
+- **Open**: The price at which Coca-Cola's stock began trading at the start of the session.
+
+- **High**: The highest price that Coca-Cola's stock reached during the trading session.
+
+- **Low**: The lowest price that Coca-Cola's stock reached during the trading session.
+
+- **Close**: The price at which Coca-Cola's stock closed at the end of the trading session.
+
+- **Adj Close**: The adjusted close price, which accounts for corporate actions such as dividends and stock splits. This value provides a more accurate reflection of the stock's value.
+
+- **Volume**: The total number of shares traded during the trading session, indicating the level of market activity.
