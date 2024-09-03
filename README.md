@@ -6,7 +6,8 @@
 2. [Objetivos do Projeto](#objetivos-do-projeto)
 3. [Fontes de Dados](#fontes-de-dados)
 4. [Como Utilizar este Repositório](#como-utilizar-este-repositório)
-5. [Contato](#contato)
+5. [Visualização de Dashboard](#visualização-de-dashboard)
+6. [Contato](#contato)
 
 ## Introdução
 
@@ -23,7 +24,7 @@ Este projeto visa analisar o desempenho de mercado da Coca-Cola Company durante 
 
 Os dados utilizados neste projeto foram coletados do Kaggle:
 
-- https://www.kaggle.com/datasets/zeeshanyounas001/coca-cola-company
+- [Coca-Cola Company Dataset](https://www.kaggle.com/datasets/zeeshanyounas001/coca-cola-company)
 
 ## Como Utilizar este Repositório
 
@@ -34,6 +35,12 @@ Para reproduzir as análises:
 3. Instale as dependências necessárias: `pip install -r requirements.txt`
 4. Execute os notebooks na ordem sequencial indicada.
 
+## Visualização de Dashboard
+
+Uma visualização interativa do desempenho de mercado da Coca-Cola Company está disponível no Power BI. Você pode acessá-la através do seguinte link:
+
+- [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiODMyYTI4ZDEtYjBiZS00NDU5LWEwYmYtMGU5MTM3MmI2NjdiIiwidCI6ImJmZDlkNTUwLWFhYTItNDUzZC05MTk5LWU5N2E3ZDJjMDljMCJ9)
+
 ## Contato
 
 Para quaisquer dúvidas ou sugestões, entre em contato:
@@ -41,3 +48,4 @@ Para quaisquer dúvidas ou sugestões, entre em contato:
 - **Nome**: Celio Maciel da Silva Junior
 - **Email**: celiomaciel50@gmail.com
 - **LinkedIn**: [Celio Maciel](https://linkedin.com/in/celio-maciel-176302170/)
+
